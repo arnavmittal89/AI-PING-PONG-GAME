@@ -24,4 +24,15 @@ background-size: cover;
     font-size: 22px;
 }
 
+center h4{
+    text-align: left;
+}
 
+.footer{
+    position:fixed;
+   bottom:0;
+   width:100%;
+   height:60px;  
+   background:rgb(97, 102, 104);
+   text-align: center;
+}
